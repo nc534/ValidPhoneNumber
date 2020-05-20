@@ -2,7 +2,7 @@
 
 A program that prints whether a user-inputted phone number is valid or not without using regex.
 
-  Assume phone numbers are 10 digit long only  
+  Assume phone numbers are only 10 digits long 
   Cannot have the numbers 911 in any part of the phone number  
   
   Valid formats:  
